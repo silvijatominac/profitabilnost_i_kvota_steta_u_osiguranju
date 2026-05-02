@@ -18,7 +18,7 @@ Analiza se temelji na sljedećim pokazateljima:
 
 - **Kvota šteta**
 - **Frekvencija šteta**
-- **Prosječan trošak štete**
+- **Tehnički rezultat**
 
 ---
 
