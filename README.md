@@ -1,5 +1,5 @@
 ## 📊 Mjesečni izvještaj analize profitabilnosti
-### *Profitabilnost i kvota šteta u osiguranju*
+### *Profitabilnost linije proizvoda "Auto-odgovornost" u portfelju osiguravajućeg društva za 2025. godinu*
 
 ---
 
@@ -7,8 +7,9 @@
 Uprava osiguravajućeg društva primijetila je **pad profitabilnosti** u segmentu **auto-odgovornosti**.
 
 **Cilj analize** je:
-- identificirati regije i skupine klijenata s najvećim gubicima  
-- automatizirati mjesečno slanje izvještaja (PDF / Excel) menadžmentu.
+- identificirati regije i skupine klijenata s najvećim gubicima
+- izraditi izvještaj s kompletnim izračunom ključnih pokazatelja
+- izvući zaključke i napisati prijedloge za daljnje korake
 
 ---
 
@@ -26,13 +27,13 @@ Odgovori koje izvještaj treba pružiti:
 
 - *Koji prodajni kanal donosi klijente s najvišom kvotom šteta?*
 - *Postoji li korelacija između dobi vozača i visine isplaćenih šteta?*
-- *Kako izgleda profitabilnost po regijama?*
+- *Kako izgleda profitabilnost po regijama i kanalima?*
 
 ---
 
 ### ⚙️ 3. Automatizacija izvještaja
 Proces izvještavanja potrebno je automatizirati tako da:
 
-- svi izračuni i grafovi budu zapisani u Excel datoteku
-- iz Excela se automatski generira PDF izvještaj
+- sve tablice s izračunima budu zapisane u Excel i PDF datoteke
+- PDF datoteka sadrži zaključak i prijedlog rješenja poslovnog problema
 - Excel i PDF budu svaki mjesec automatski poslani na definirane mail adrese
