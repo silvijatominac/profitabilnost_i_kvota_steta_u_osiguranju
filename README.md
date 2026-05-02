@@ -58,6 +58,6 @@ Na temelju analize identificirana su tri kritična segmenta:
 ---
 
 ## 📂 Dokumentacija
-* [PDF Izvještaj](Izvjestaj_profitabilnost.pdf) - Detaljan tehnički dokument
-* [Excel Tablice](Izvjestaj_profitabilnost.xlsx) - Strukturirani podaci
-* [Jupyter Notebook](Profitabilnost auto odgovornosti u osiguranju.ipynb) - Cijeli proces obrade podataka
+*   📂 [Pregledaj PDF izvještaj](Izvjestaj_profitabilnost.pdf) - Detaljan tehnički dokument
+*   📊 [Preuzmi Excel tablice](Izvjestaj_profitabilnost.xlsx) - Strukturirani podaci
+*   🐍 [Pogledaj Python kod (Jupyter Notebook)](Profitabilnost_auto_odgovornosti_u_osiguranju.ipynb) - Cijeli proces obrade podataka
