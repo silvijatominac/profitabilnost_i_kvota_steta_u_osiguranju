@@ -60,9 +60,9 @@ Na razini cijelog portfelja (10.000 polica), ostvarena je ukupna kvota šteta od
 **Volumen i marža:** Regija Zagreb je najzaslužniji faktor za ukupnu dobit. Zahvaljujući najvećem broju polica i 10% višoj premiji, Zagreb generira tehnički rezultat koji je višestruko veći od svih ostalih regija zajedno.  
 **Subvencioniranje rizika:** Dobit ostvarena u regiji Zagreb direktno pokriva gubitke nastale u Dalmaciji i kod rizičnih skupina mladih vozača. Bez stabilnosti zagrebačkog portfelja, društvo bi poslovalo s gubitkom.
 ### 3. Ključni kanali:
-Dok kanal Brokera posluje neprofitabilno (101%), Interna prodajna mreža (IPM) i Web su kanali koji osiguravaju najkvalitetniji ulaz klijenata. IPM pokazuje najbolje rezultate jer vlastiti agenti bolje poznaju klijente i pažljivije vrše procjenu rizika pri samom ugovaranju (underwriting).
+Dok kanal Brokera posluje neprofitabilno (101%), Interna prodajna mreža (IPM) i Web su kanali koji osiguravaju najkvalitetniji ulaz klijenata. IPM pokazuje najbolje rezultate jer vlastiti agenti bolje poznaju klijente i pažljivije vrše procjenu rizika pri samom ugovaranju.
 ### 4. Finalna poruka:
-Poslovanje je jako u Zagrebu, ali ranjivo u ostalim regijama. Strategija za iduću godinu trebala bi biti usmjerena na očuvanje dominantne pozicije u Zagrebu uz istovremeno uvođenje strožih "malusa" za kritične segmente (Dalmacija ljeti, mladi vozači) kako bi se smanjilo odlijevanje profita iz Zagreba.
+Poslovanje je jako u Zagrebu, ali ranjivo u ostalim regijama. Strategija za iduću godinu trebala bi biti usmjerena na očuvanje dominantne pozicije u Zagrebu uz istovremeno uvođenje strožih "malusa" za kritične segmente (Dalmacija ljeti, mladi vozači) kako bi se smanjio odlijev profita.
 
 ---
 
