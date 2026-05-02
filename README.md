@@ -37,3 +37,27 @@ Proces izvještavanja potrebno je automatizirati tako da:
 - sve tablice s izračunima budu zapisane u Excel i PDF datoteke
 - PDF datoteka sadrži zaključak i prijedlog rješenja poslovnog problema
 - Excel i PDF budu svaki mjesec automatski poslani na definirane mail adrese
+
+---
+
+## 🔍 Zaključak odrađene analize
+
+Na temelju analize identificirana su tri kritična segmenta:
+
+1. **Regija Dalmacija (kvota štete: ~127%):** Regija Dalmacija ima najviše gubitaka zbog visoke frekvencije šteta u turističkoj sezoni, pogotovo kada tome pridodamo dobnu skupinu mladih koja statistički izaziva najskuplje i najčešće štete zbog manjka iskustva mladih vozača i veće sklonosti riziku.
+2. **Kanal Brokeri (kvota štete: ~101%):** Zbog visokih provizija i tendencije prema rizičnijim klijentima, ovaj kanal zahtjeva stroži underwriting.
+3. **Mladi vozači (kvota štete: ~180%):** Skupina s najvećim rizikom. Dokazana je nužnost dobne segmentacije pri određivanju cijena premija.
+
+---
+
+## 💡 Poslovne preporuke
+* **Korekcija cijena:** Uvođenje regionalnih doplataka za Dalmaciju i malusa za mlade vozače.
+* **Optimizacija kanala:** Revizija ugovora s brokerima i uvođenje bonusa temeljenih na profitabilnosti, umjesto samo na volumenu prodaje.
+* **Dinamičko izvještavanje:** Automatiziranje priloženog izvještaja za mjesečno praćenje trendova kako bi se reagiralo prije kritičnih razdoblja.
+
+---
+
+## 📂 Dokumentacija
+* [PDF Izvještaj](Izvjestaj_profitabilnost.pdf) - Detaljan tehnički dokument
+* [Excel Tablice](Izvjestaj_profitabilnost.xlsx) - Strukturirani podaci
+* [Jupyter Notebook](analiza_osiguranja.ipynb) - Cijeli proces obrade podataka
