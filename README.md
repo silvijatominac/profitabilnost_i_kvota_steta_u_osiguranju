@@ -40,6 +40,8 @@ Proces izvještavanja potrebno je pripremiti na način da:
 
 ---
 
+<img width="1228" height="765" alt="image" src="https://github.com/user-attachments/assets/f1955060-f1f8-4c69-9a18-044ff9879d72" />
+
 ## 🔍 Zaključak odrađene analize
 
 Na temelju analize identificirana su tri kritična segmenta:
