@@ -1,4 +1,4 @@
-## 📊 Mjesečni izvještaj analize profitabilnosti
+## 📊 Godišnji izvještaj analize profitabilnosti
 ### *Profitabilnost linije proizvoda "Auto-odgovornost" u portfelju osiguravajućeg društva za 2025. godinu*
 
 ---
@@ -31,12 +31,12 @@ Odgovori koje izvještaj treba pružiti:
 
 ---
 
-### ⚙️ 3. Automatizacija izvještaja
-Proces izvještavanja potrebno je automatizirati tako da:
+### ⚙️ 3. Generirati izvještaj
+Proces izvještavanja potrebno je pripremiti na način da:
 
+- Python skripta pripremi, izračuna i preoblikuje sve podatke potrebne za izvještavanje
 - sve tablice s izračunima budu zapisane u Excel i PDF datoteke
 - PDF datoteka sadrži zaključak i prijedlog rješenja poslovnog problema
-- Excel i PDF budu svaki mjesec automatski poslani na definirane mail adrese
 
 ---
 
