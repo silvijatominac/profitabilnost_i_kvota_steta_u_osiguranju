@@ -40,10 +40,13 @@ Proces izvještavanja potrebno je pripremiti na način da:
 
 ---
 
+## ▦ Tablični prikaz ključnih pokazatelja
 <img width="1228" height="765" alt="image" src="https://github.com/user-attachments/assets/f1955060-f1f8-4c69-9a18-044ff9879d72" />
 
+## 📊 Grafički prikaz ključnih pokazatelja
 <img width="1295" height="734" alt="image" src="https://github.com/user-attachments/assets/b2f85e9e-d241-44ad-bd2d-ebb7b4bd8698" />
 
+---
 
 ## 🔍 Zaključak odrađene analize
 
