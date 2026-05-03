@@ -1,9 +1,9 @@
-## 📊 Godišnji izvještaj analize profitabilnosti
+## 📑 Godišnji izvještaj analize profitabilnosti
 ### *Profitabilnost linije proizvoda "Auto-odgovornost" u portfelju osiguravajućeg društva za 2025. godinu*
 
 ---
 
-### 🎯 Poslovni problem
+### ⚠️ Poslovni problem
 Uprava osiguravajućeg društva primijetila je **pad profitabilnosti** u segmentu **auto-odgovornosti**.
 
 **Cilj analize** je:
@@ -22,7 +22,7 @@ Analiza se temelji na sljedećim pokazateljima:
 
 ---
 
-### 📈 2. Poslovna analitika
+### 🔍 2. Poslovna analitika
 Odgovori koje izvještaj treba pružiti:
 
 - *Koji prodajni kanal donosi klijente s najvišom kvotom šteta?*
@@ -43,12 +43,14 @@ Proces izvještavanja potrebno je pripremiti na način da:
 ## ▦ Tablični prikaz ključnih pokazatelja
 <img width="1228" height="765" alt="image" src="https://github.com/user-attachments/assets/f1955060-f1f8-4c69-9a18-044ff9879d72" />
 
+---
+
 ## 📊 Grafički prikaz ključnih pokazatelja
 <img width="1295" height="734" alt="image" src="https://github.com/user-attachments/assets/b2f85e9e-d241-44ad-bd2d-ebb7b4bd8698" />
 
 ---
 
-## 🔍 Zaključak odrađene analize
+## 📌 Zaključak odrađene analize
 
 Na temelju analize identificirana su tri kritična segmenta:
 
@@ -58,7 +60,7 @@ Na temelju analize identificirana su tri kritična segmenta:
 
 ---
 
-## 📑 Zaključak o profitabilnosti portfelja
+## 📝 Zaključak o profitabilnosti portfelja
 
 ### 1. Ukupna ocjena: Stabilna, ali osjetljiva profitabilnost
 Na razini cijelog portfelja (10.000 polica), ostvarena je ukupna kvota šteta od približno 78%. U industriji osiguranja ovo se smatra pozitivnim, ali umjerenim rezultatom. Iako je tehnički rezultat pozitivan, važno je napomenuti da preostalih 22% marže mora pokriti hladni pogon (plaće, najam, IT), marketing i provizije posrednika. Portfelj je profitabilan, ali nema velikog prostora za nepredviđene katastrofalne događaje.
